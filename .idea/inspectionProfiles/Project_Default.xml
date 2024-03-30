@@ -1,0 +1,46 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyInterpreterInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="22">
+            <item index="0" class="java.lang.String" itemvalue="cffi" />
+            <item index="1" class="java.lang.String" itemvalue="SQLAlchemy" />
+            <item index="2" class="java.lang.String" itemvalue="altgraph" />
+            <item index="3" class="java.lang.String" itemvalue="pywin32" />
+            <item index="4" class="java.lang.String" itemvalue="yarg" />
+            <item index="5" class="java.lang.String" itemvalue="bottle" />
+            <item index="6" class="java.lang.String" itemvalue="pycparser" />
+            <item index="7" class="java.lang.String" itemvalue="gevent-websocket" />
+            <item index="8" class="java.lang.String" itemvalue="docopt" />
+            <item index="9" class="java.lang.String" itemvalue="kivy-garden" />
+            <item index="10" class="java.lang.String" itemvalue="whichcraft" />
+            <item index="11" class="java.lang.String" itemvalue="bottle-websocket" />
+            <item index="12" class="java.lang.String" itemvalue="fuzzywuzzy" />
+            <item index="13" class="java.lang.String" itemvalue="pyinstall" />
+            <item index="14" class="java.lang.String" itemvalue="pure-eval" />
+            <item index="15" class="java.lang.String" itemvalue="asttokens" />
+            <item index="16" class="java.lang.String" itemvalue="backcall" />
+            <item index="17" class="java.lang.String" itemvalue="stack-data" />
+            <item index="18" class="java.lang.String" itemvalue="pickleshare" />
+            <item index="19" class="java.lang.String" itemvalue="wcwidth" />
+            <item index="20" class="java.lang.String" itemvalue="fastjsonschema" />
+            <item index="21" class="java.lang.String" itemvalue="webencodings" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="main.gTTS" />
+          <option value="main.*" />
+          <option value="kivy.app" />
+          <option value="kivy.*" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
