@@ -3,16 +3,16 @@
   "page1": {
     "skin": [
       "SNC0001",
-      "SNR0001"
+      "SNC0001"
     ],
     "music": [
       "MBC0001",
-      "MLR0001",
-      "MBR0001"
+      "MLC0001",
+      "MBC0001"
     ],
     "fon": [
-      "FLR0001",
-      "FBR0001"
+      "FLC0001",
+      "FBC0001"
     ],
     "gama": [
       "GNC0001"
