@@ -5,6 +5,11 @@
     "SelectColor": "#fafa02",
     "ColorText": "#ffffff",
     "SelectColorText": "#0a0a0a",
-    "PanelColor": "#ffffff"
+    "PanelColor": [
+      0,
+      0,
+      0,
+      0.6
+    ]
   }
 }
