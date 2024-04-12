@@ -11,5 +11,304 @@
       0,
       0.6
     ]
+  },
+  "GNV0002": {
+    "Color1": "#5D252A",
+    "Color2": "#CE5F4C",
+    "SelectColor": "#EAE56B",
+    "ColorText": "#ECF1E3",
+    "SelectColorText": "#EFFFB1",
+    "PanelColor": [
+      0,
+      0,
+      0,
+      0.6
+    ]
+  },
+  "GNR0003": {
+    "Color1": "#8A0000",
+    "Color2": "#A02E2E",
+    "SelectColor": "#FF0000",
+    "ColorText": "#ECF1E3",
+    "SelectColorText": "#FFFFFF",
+    "PanelColor": [
+      0.36,
+      0,
+      0,
+      0.6
+    ]
+  },
+  "GNE0004": {
+    "Color1": "#002B6B",
+    "Color2": "#0447AB",
+    "SelectColor": "#247CFF",
+    "ColorText": "#A6C9FF",
+    "SelectColorText": "#A6C9FF",
+    "PanelColor": [
+      0,
+      0.24,
+      0.61,
+      0.6
+    ]
+  },
+  "GNR0005": {
+    "Color1": "#4F0000",
+    "Color2": "#750000",
+    "SelectColor": "#7D3D3D",
+    "ColorText": "#D8AEAE",
+    "SelectColorText": "#D8AEAE",
+    "PanelColor": [
+      0.51,
+      0.37,
+      0.37,
+      0.6
+    ]
+  },
+  "GNR0006": {
+    "Color1": "#4B0000",
+    "Color2": "#7D0000",
+    "SelectColor": "#990000",
+    "ColorText": "#EBFF0B",
+    "SelectColorText": "#EBFF0B",
+    "PanelColor": [
+      0.49,
+      0,
+      0.15,
+      0.6
+    ]
+  },
+  "GNR0007": {
+    "Color1": "#3498db",
+    "Color2": "#2980b9",
+    "SelectColor": "#e74c3c",
+    "ColorText": "#FFFFFF",
+    "SelectColorText": "#FFFFFF",
+    "PanelColor": [
+      0.6,
+      0.17,
+      0.43,
+      0.6
+    ]
+  },
+  "GNR0008": {
+    "Color1": "#2ecc71",
+    "Color2": "#27ae60",
+    "SelectColor": "#f39c12",
+    "ColorText": "#FFFFFF",
+    "SelectColorText": "#FFFFFF",
+    "PanelColor": [
+      0.35,
+      0.62,
+      0,
+      0.6
+    ]
+  },
+  "GNE0008": {
+    "Color1": "#9b59b6",
+    "Color2": "#8e44ad",
+    "SelectColor": "#f1c40f",
+    "ColorText": "#C2FF73",
+    "SelectColorText": "#C2FF73",
+    "PanelColor": [
+      0.15,
+      0.18,
+      0.37,
+      0.6
+    ]
+  },
+  "GNL0009": {
+    "Color1": "#e74c3c",
+    "Color2": "#c0392b",
+    "SelectColor": "#1abc9c",
+    "ColorText": "#D6FF62",
+    "SelectColorText": "#D6FF62",
+    "PanelColor": [
+      0.51,
+      0,
+      0,
+      0.6
+    ]
+  },
+  "GNE0010": {
+    "Color1": "#f39c12",
+    "Color2": "#d35400",
+    "SelectColor": "#2c3e50",
+    "ColorText": "#FFFFFF",
+    "SelectColorText": "#FFFFFF",
+    "PanelColor": [
+      0.67,
+      0.67,
+      0.67,
+      0.6
+    ]
+  },
+  "GNE0011": {
+    "Color1": "#e67e22",
+    "Color2": "#d35400",
+    "SelectColor": "#3498db",
+    "ColorText": "#FFFFFF",
+    "SelectColorText": "#FFFFFF",
+    "PanelColor": [
+      0,
+      0.25,
+      0.88,
+      0.6
+    ]
+  },
+  "GNV0012": {
+    "Color1": "#f1c40f",
+    "Color2": "#f39c12",
+    "SelectColor": "#27ae60",
+    "ColorText": "#FFFFFF",
+    "SelectColorText": "#FFFFFF",
+    "PanelColor": [
+      0.20,
+      0.62,
+      0,
+      0.6
+    ]
+  },
+  "GNL0013": {
+    "Color1": "#c0392b",
+    "Color2": "#e74c3c",
+    "SelectColor": "#2ecc71",
+    "ColorText": "#FFFFFF",
+    "SelectColorText": "#FFFFFF",
+    "PanelColor": [
+      0.10,
+      0.32,
+      1,
+      0.6
+    ]
+  },
+  "GNE0014": {
+    "Color1": "#1abc9c",
+    "Color2": "#16a085",
+    "SelectColor": "#9b59b6",
+    "ColorText": "#000000",
+    "SelectColorText": "#000000",
+    "PanelColor": [
+      0,
+      0.26,
+      0.45,
+      0.6
+    ]
+  },
+  "GNV0015": {
+    "Color1": "#87CEEB",
+    "Color2": "#1E90FF",
+    "SelectColor": "#808080",
+    "ColorText": "#000000",
+    "SelectColorText": "#000000",
+    "PanelColor": [
+      0,
+      0.26,
+      0.45,
+      0.6
+    ]
+  },
+  "GNL0016": {
+    "Color1": "#FFFF00",
+    "Color2": "#800080",
+    "SelectColor": "#FF69B4",
+    "ColorText": "#000000",
+    "SelectColorText": "#000000",
+    "PanelColor": [
+      0,
+      0.26,
+      0.45,
+      0.6
+    ]
+  },
+  "GNC0017": {
+    "Color1": "#FFFFFF",
+    "Color2": "#D3D3D3",
+    "SelectColor": "#808080",
+    "ColorText": "#000000",
+    "SelectColorText": "#000000",
+    "PanelColor": [
+      0,
+      0,
+      0,
+      0.6
+    ]
+  },
+  "GNL0018": {
+    "Color1": "#3498db",
+    "Color2": "#2980b9",
+    "SelectColor": "#c0392b",
+    "ColorText": "#FFFFFF",
+    "SelectColorText": "#FFFFFF",
+    "PanelColor": [
+      0.40,
+      0,
+      0,
+      0.6
+    ]
+  },
+  "GNR0019": {
+    "Color1": "#27ae60",
+    "Color2": "#2ecc71",
+    "SelectColor": "#8e44ad",
+    "ColorText": "#FFFFFF",
+    "SelectColorText": "#FFFFFF",
+    "PanelColor": [
+      0.43,
+      0.63,
+      0,
+      0.6
+    ]
+  },
+  "GNE0020": {
+    "Color1": "#f39c12",
+    "Color2": "#f1c40f",
+    "SelectColor": "#34495e",
+    "ColorText": "#FFFFFF",
+    "SelectColorText": "#FFFFFF",
+    "PanelColor": [
+      0.53,
+      0,
+      0.57,
+      0.6
+    ]
+  },
+  "GNV0021": {
+    "Color1": "#f39c12",
+    "Color2": "#f1c40f",
+    "SelectColor": "#34495e",
+    "ColorText": "#FFFFFF",
+    "SelectColorText": "#FFFFFF",
+    "PanelColor": [
+      0.53,
+      0,
+      0.57,
+      0.6
+    ]
+  },
+  "GNR0022": {
+    "Color1": "#16a085",
+    "Color2": "#1abc9c",
+    "SelectColor": "#f1c40f",
+    "ColorText": "#FFFFFF",
+    "SelectColorText": "#FFFFFF",
+    "PanelColor": [
+      0.53,
+      0.57,
+      0,
+      0.6
+    ]
+  },
+  "GNC0023": {
+    "Color1": "#d35400",
+    "Color2": "#e67e22",
+    "SelectColor": "#2c3e50",
+    "ColorText": "#FFFFFF",
+    "SelectColorText": "#FFFFFF",
+    "PanelColor": [
+      0.5,
+      0.24,
+      0.51,
+      0.6
+    ]
   }
 }
